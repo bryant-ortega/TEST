@@ -3,3 +3,6 @@
 3. eggs
 4. tomoato
 5. rice
+6. apples
+7. cereal
+8. oranges
